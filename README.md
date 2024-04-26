@@ -8,11 +8,11 @@ This is my second commit.
 ## Heading 2
 ### Heading 3
 
-*** Bold Text***
+**Bold Text**
 
 *Italic text*
 
-*** Lists ***
+**Lists**
 - Item 1
 - Item 2
     - Sub item1
